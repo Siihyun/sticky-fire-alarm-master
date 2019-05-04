@@ -1,1 +1,2 @@
-# sticky-fire-alarm-master
+# 2018 K-Hackerthon
+sticky-fire-alarm
